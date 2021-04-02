@@ -7,4 +7,13 @@
 	<artifactId>spring-boot-starter-parent</artifactId>
 	<version>2.4.3</version>
 	<packaging>pom</packaging>
+	
+	
+	<modules>
+		<module>ahmis-data-access</module>
+		<module>ahmis-fwk-annotations</module>
+		<module>ahmis-gateway-server</module>
+		<module>ahmis-initial-services</module>
+		<module>ahmis-registry-server</module>
+	</modules>
 </project>
