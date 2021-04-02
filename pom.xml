@@ -24,8 +24,7 @@
     </dependencies>
 	
     <build>
-        <finalName>Microservices</finalName>
-
+ 
         <pluginManagement>
             <plugins>
                 <plugin>
@@ -41,7 +40,6 @@
             </plugins>
         </pluginManagement>
     </build>
-
 
     <modules>
         <module>eureka-server</module>
