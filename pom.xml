@@ -44,10 +44,10 @@
 	</build>
 	
 	<modules>
-		<module>ahmis-data-access</module>
-		<module>ahmis-fwk-annotations</module>
-		<module>ahmis-gateway-server</module>
-		<module>ahmis-initial-services</module>
-		<module>ahmis-registry-server</module>
-	</modules>
+        <module>eureka-server</module>
+        <module>movie-catalog-service</module>
+        <module>movie-info-service</module>
+        <module>rating-data-service</module>
+        <module>spring-cloud-api-gateway</module>
+    	</modules>
 </project>
